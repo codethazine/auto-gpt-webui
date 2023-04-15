@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-autogptwebui-dev-05949-authRole",
+      "UnauthRoleArn": "arn:aws:iam::779963018078:role/amplify-autogptwebui-dev-05949-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::779963018078:role/amplify-autogptwebui-dev-05949-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-autogptwebui-dev-05949-deployment",
+      "UnauthRoleName": "amplify-autogptwebui-dev-05949-unauthRole",
+      "StackName": "amplify-autogptwebui-dev-05949",
+      "StackId": "arn:aws:cloudformation:us-east-1:779963018078:stack/amplify-autogptwebui-dev-05949/3c7ad1c0-dbe1-11ed-bd2a-12fd37d7f08b",
+      "AmplifyAppId": "d2hdvu6nas2pbk"
+    }
+  }
+}
